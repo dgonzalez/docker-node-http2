@@ -4,7 +4,7 @@ support.
 
 ## How to use it
 
-Just pull the image dagonzadub/node-9-http2 and the node executable will
+Just pull the image `dagonzadub/node-9-http2` and the node executable will
 be available in the path for running applications with http2.
 
 NPM is not installed in the image.
