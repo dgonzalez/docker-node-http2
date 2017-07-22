@@ -7,5 +7,7 @@ support.
 Just pull the image dagonzadub/node-9-http2 and the node executable will
 be available in the path for running applications with http2.
 
+NPM is not installed in the image.
+
 More info
 [here](https://medium.com/the-node-js-collection/say-hello-to-http-2-for-node-js-core-261ba493846e)
