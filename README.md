@@ -11,3 +11,5 @@ NPM is not installed in the image.
 
 More info
 [here](https://medium.com/the-node-js-collection/say-hello-to-http-2-for-node-js-core-261ba493846e)
+
+Docker hub repository: https://hub.docker.com/r/dagonzadub/node-9-http2/
